@@ -1,1 +1,1 @@
-Bazı kafe ve işletmelere entegre edilebilir bir analiz sistemi programı
+# Bazı kafe ve işletmelere entegre edilebilir bir analiz sistemi programı
