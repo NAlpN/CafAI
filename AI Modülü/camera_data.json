@@ -1,0 +1,17 @@
+[
+  {
+    "musteri_sayisi": 4,
+    "tarih": "2025-07-11",
+    "saat": "10:00"
+  },
+  {
+    "musteri_sayisi": 2,
+    "tarih": "2025-07-11",
+    "saat": "10:05"
+  },
+  {
+    "musteri_sayisi": 6,
+    "tarih": "2025-07-10",
+    "saat": "14:00"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "tarih": "2025-07-06",
+    "toplam_musteri": 52,
+    "ortalama_oturma": 32,
+    "veriler": [
+      { "saat": 13, "siparisler": [ { "urun": "Latte" }, { "urun": "Mocha" } ] },
+      { "saat": 14, "siparisler": [ { "urun": "Latte" }, { "urun": "Latte" } ] }
+    ]
+  },
+  {
+    "tarih": "2025-07-07",
+    "toplam_musteri": 46,
+    "ortalama_oturma": 29,
+    "veriler": [
+      { "saat": 10, "siparisler": [ { "urun": "Espresso" } ] },
+      { "saat": 13, "siparisler": [ { "urun": "Latte" }, { "urun": "Americano" } ] }
+    ]
+  },
+  {
+    "tarih": "2025-07-08",
+    "toplam_musteri": 60,
+    "ortalama_oturma": 37,
+    "veriler": [
+      { "saat": 15, "siparisler": [ { "urun": "Mocha" }, { "urun": "Mocha" } ] },
+      { "saat": 16, "siparisler": [ { "urun": "Latte" }, { "urun": "Mocha" } ] }
+    ]
+  }
+]
